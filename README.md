@@ -7,5 +7,5 @@ A FastAPI backend using Meta’s NLLB-200 model to translate between 200+ langua
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/fastapi-translator.git
+git clone https://github.com/Kibebu2024/fastapi-translator.git
 cd fastapi-translator
